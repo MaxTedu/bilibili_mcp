@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@bilibili-mcp?theme=gelbooru" alt="Hits">
-  <img src="https://img.shields.io/github/stars/yourusername/bilibili-mcp?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/bilibili-mcp?style=for-the-badge" alt="Forks">
+  <img src="https://count.getloli.com/get/@bilibili_mcp?theme=gelbooru" alt="Hits">
+  <img src="https://img.shields.io/github/stars/MaxTedu/bilibili_mcp?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/forks/MaxTedu/bilibili_mcp?style=for-the-badge" alt="Forks">
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/bilibili-mcp.git
+git clone https://github.com/MaxTedu/bilibili_mcp.git
 cd bilibili-mcp
 
 # 安装依赖
@@ -122,7 +122,7 @@ cp configexample.json config.json
     "bilibili": {
       "type": "stdio",
       "command": "python",
-      "args": ["D:\\path\\to\\bilibili-mcp\\server.py"]
+      "args": ["你实际的 server.py 绝对路径"]
     }
   }
 }
@@ -244,18 +244,6 @@ bilibili-mcp/
 
 ---
 
-## 🤝 贡献指南 Contributing
-
-欢迎提交 Issue 和 Pull Request！💖
-
-1. 🍴 Fork 本项目
-2. 🔨 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 💾 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 🎉 开启一个 Pull Request
-
----
-
 ## 📜 开源许可证 License
 
 本项目采用 [MIT License](LICENSE) 开源。
@@ -266,7 +254,6 @@ bilibili-mcp/
 
 - 感谢 [bilibili-api-python](https://github.com/Nemo2011/bilibili-api) 项目的优秀封装
 - 感谢 [MCP](https://modelcontextprotocol.io/) 提供的协议框架
-- 感谢所有 Contributors 的贡献！🌟
 
 ---
 
@@ -275,11 +262,10 @@ bilibili-mcp/
 ```
     ╔══════════════════════════════════════════╗
     ║                                          ║
-    ║     🎭 感谢使用 Bilibili MCP Server 🎭   ║
+    ║     🎭 感谢使用 Bilibili MCP Server 🎭    ║
     ║                                          ║
-    ║     🌟 Star ⭐ | 🍴 Fork 🍴 | 📖 Docs    ║
+    ║     🌟 Star ⭐ | 🍴 Fork 🍴 | 📖 Docs   ║
     ║                                          ║
-    ║     Made with ❤️  by 二次元爱好者         ║
     ║                                          ║
     ╚══════════════════════════════════════════╝
 ```
@@ -289,7 +275,7 @@ bilibili-mcp/
 <p align="center">
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-Channel-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MaxTedu)
 
 </p>
 
@@ -298,3 +284,21 @@ bilibili-mcp/
 > 🎌 *"每一个弹幕都是一份快乐，每一条评论都是一份支持"* 🎌
 >
 > **如果这个项目对你有帮助，请给我们一个 ⭐ 吧！**
+
+---
+
+## 📈 Star 历史 Star History
+
+<p align="center">
+  <a href="https://star-history.com/#MaxTedu/bilibili_mcp&Date">
+    <img src="https://api.star-history.com/svg?repos=MaxTedu/bilibili_mcp&type=Date" alt="Star History">
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MaxTedu/bilibili_mcp&type=Date)](https://star-history.com/#MaxTedu/bilibili_mcp&Date)
+
+</p>
