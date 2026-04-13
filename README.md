@@ -296,9 +296,3 @@ bilibili-mcp/
 </p>
 
 ---
-
-<p align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=MaxTedu/bilibili_mcp&type=Date)](https://star-history.com/#MaxTedu/bilibili_mcp&Date)
-
-</p>
