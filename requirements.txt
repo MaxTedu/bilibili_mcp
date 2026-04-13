@@ -1,0 +1,3 @@
+mcp[cli]
+bilibili-api-python
+aiohttp
