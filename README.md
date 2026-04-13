@@ -112,10 +112,6 @@ cp configexample.json config.json
 
 在 Claude Code 的 MCP 配置文件中添加服务器配置：
 
-**Windows:** `%APPDATA%\Claude\code_desktop_config.json`
-
-**Mac/Linux:** `~/.config/Claude/code_desktop_config.json`
-
 ```json
 {
   "mcpServers": {
